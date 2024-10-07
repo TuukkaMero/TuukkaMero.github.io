@@ -2,7 +2,19 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #00EEEE;
     font-size: 16px;
+    width: 960px;
+    height:auto
+    text-align; center;
+    margin: auto;
 }
+
+header{
+    background-color: #8B929D;
+    text-align: center;
+    padding-top: 30px;
+    style=width: 50px;
+}
+
 
 h1{
     background-color: #F3F6F4;
@@ -10,4 +22,29 @@ h1{
     font-size: 24px;
     border: 2px black;
     outline-style: solid;
+    text-align: center;
+    style=width: 100px;
+}
+
+p{
+    background-color: #F3F6F4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    border: 2px black;
+    outline-style: solid;
+    text-align: center;
+    style=width: 100px;
+}
+
+footer{
+    background-color: #F3F6F4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    border: 2px black;
+    outline-style: solid;
+    text-align: center;
+}
+
+h3{
+    font-size: 24px;
 }
